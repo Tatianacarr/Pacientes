@@ -57,6 +57,7 @@ public class Paciente {// Inicializacion
         System.out.println("Total:"+calcular());
         System.out.println("Clasificacion:"+clasificacion());
         System.out.println("Mensaje:"+mensaje());
+        System.out.println("///////////////////////");
 
     }
 
