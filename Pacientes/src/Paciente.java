@@ -1,4 +1,4 @@
-public class Paciente {
+public class Paciente {// Inicializacion
     private double costoConsulta;
     private int numeroConsultas;
     private int prioridad;
